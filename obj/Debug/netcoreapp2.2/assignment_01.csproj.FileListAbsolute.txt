@@ -9,3 +9,14 @@ C:\Users\S533626\documents\44663\assignment_01\bin\Debug\netcoreapp2.2\assignmen
 C:\Users\S533626\documents\44663\assignment_01\bin\Debug\netcoreapp2.2\assignment_01.pdb
 C:\Users\S533626\documents\44663\assignment_01\obj\Debug\netcoreapp2.2\assignment_01.dll
 C:\Users\S533626\documents\44663\assignment_01\obj\Debug\netcoreapp2.2\assignment_01.pdb
+C:\Users\S533626\Documents\44663\44663-Assignment01\bin\Debug\netcoreapp2.2\assignment_01.deps.json
+C:\Users\S533626\Documents\44663\44663-Assignment01\bin\Debug\netcoreapp2.2\assignment_01.runtimeconfig.json
+C:\Users\S533626\Documents\44663\44663-Assignment01\bin\Debug\netcoreapp2.2\assignment_01.runtimeconfig.dev.json
+C:\Users\S533626\Documents\44663\44663-Assignment01\bin\Debug\netcoreapp2.2\assignment_01.dll
+C:\Users\S533626\Documents\44663\44663-Assignment01\bin\Debug\netcoreapp2.2\assignment_01.pdb
+C:\Users\S533626\Documents\44663\44663-Assignment01\obj\Debug\netcoreapp2.2\assignment_01.csprojAssemblyReference.cache
+C:\Users\S533626\Documents\44663\44663-Assignment01\obj\Debug\netcoreapp2.2\assignment_01.csproj.CoreCompileInputs.cache
+C:\Users\S533626\Documents\44663\44663-Assignment01\obj\Debug\netcoreapp2.2\assignment_01.AssemblyInfoInputs.cache
+C:\Users\S533626\Documents\44663\44663-Assignment01\obj\Debug\netcoreapp2.2\assignment_01.AssemblyInfo.cs
+C:\Users\S533626\Documents\44663\44663-Assignment01\obj\Debug\netcoreapp2.2\assignment_01.dll
+C:\Users\S533626\Documents\44663\44663-Assignment01\obj\Debug\netcoreapp2.2\assignment_01.pdb

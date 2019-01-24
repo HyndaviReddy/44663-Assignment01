@@ -18,9 +18,9 @@ namespace assignment_01
 
             if(c == 'y'){
                 while(h){
-                Console.WriteLine("Enter your name");
+                Console.WriteLine("Please,Enter your name");
                 name = Console.ReadLine();
-                Console.WriteLine("Enter no of tickets.");
+                Console.WriteLine("Please,Enter total no of tickets you want to purchase.");
                 var num = Console.ReadLine();
                 n = Convert.ToInt16(num);
                 if(n>4){Console.WriteLine("Sorry! You can purchase only 4 tickets at a time.");}
@@ -47,7 +47,7 @@ namespace assignment_01
 
                 void cost(int i, decimal uPrice){
                     var unit = Convert.ToDecimal(i);
-                    Console.WriteLine($"Cost for {i} persons is {unit*uPrice}.");
+                    Console.WriteLine($"Total price of tickets for {i} persons is {unit*uPrice}.");
                     Console.WriteLine($"Thank you for purchasing {name}.");
                 }
             }
